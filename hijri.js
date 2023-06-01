@@ -36,7 +36,7 @@
         return gregorianDate;
     }
 
-    var targetNodes = document.querySelectorAll('.VwiC3b .MUxGbd .wuQ4Ob .WZ8Tjf');
+    var targetNodes = document.querySelectorAll('.MUxGbd .wuQ4Ob .WZ8Tjf');
 
     targetNodes.forEach(function(targetNode) {
         var textContent = targetNode.textContent;
